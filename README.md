@@ -1,2 +1,2 @@
 # Chinese-essay-template
-a latex template for Chinese essay
+a latex template for Chinese essay (no ref)
